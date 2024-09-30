@@ -1,3 +1,7 @@
+environment:
+  cycode_api_url: https://api.cycode.com
+  cycode_app_url: https://app.cycode.com
+
 repos:
   - repo: https://github.com/cycodehq/cycode-cli
     rev: v1.2.0
